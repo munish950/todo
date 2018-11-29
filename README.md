@@ -13,7 +13,7 @@ document against each user and todo relation.
 Install node and respective dependencies.
 Use command `npm start` to run project.
 By default application use port 3000 (127.0.0:3000)
-Install the sql file (todo.sql) in top level directory. I contain all supporting tables.
+Install the sql file (todo.sql) from top level directory. I contain all supporting tables.
 In config file change your DB credentials.
 
 ## License
